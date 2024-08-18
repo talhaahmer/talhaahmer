@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Html, CSS, JavaScript, Jquery, Bootstrap, MySql, PHP**
 
-- 📫 How to reach me **talhaahmer1252gmail.com**
+- 📫 How to reach me **talhaahmer125@gmail.com**
 
 - ⚡ Fun fact **I am Passionate and learn new things quickly**
 
