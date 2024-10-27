@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaahmer" alt="talhaahmer" /></a> </p>
 
-- 🔭 I’m currently working on a Project **Jungle Safari**
+- 🔭 I’m currently working on a Project **Bubble & Bauble**
 
 - 🌱 I’m currently learning **PHP, Tailwind, MySql**
 
