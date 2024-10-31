@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋! My name is Talha Ahmer and I'm a Full Stack Web Developer from Pakistan</h1>
-<h2 align="center">A passionate Full Stack Web 
-  Developer from Pakistan</h2>
+<h2 align="center">Colaborate with me on exciting projects</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaahmer&label=Profile%20views&color=0e75b6&style=flat" alt="talhaahmer"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaahmer" alt="talhaahmer"/></a> </p>
 
-
+<br>
 - 🔭 I’m currently working on a Project **Bubble & Bauble**
 
 - 🌱 I’m currently learning **PHP, Tailwind, MySql**
@@ -18,7 +17,7 @@
 - 📫 How to reach me **talhaahmer125@gmail.com**
 
 - ⚡ Fun fact **I am Passionate and learn new things quickly**
-
+<br>
 
  <section class="bg-gray-800 py-12 px-6">
     <div class="max-w-4xl mx-auto text-center">
@@ -30,7 +29,7 @@
       </div>
     </div>
   </section>
-   
+   <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -58,7 +57,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
 </div>
-<div class="right" style="justify-content: center;">
+<br>
+<div class="right">
     <img height="150" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated gif" />
   </div>
 
@@ -66,7 +66,6 @@
 
 <img src="https://raw.githubusercontent.com/talhaahmer/talhaahmer/output/snake.svg" alt="Snake animation" />
 
-###
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
