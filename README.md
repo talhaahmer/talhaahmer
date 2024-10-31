@@ -31,9 +31,7 @@
     </div>
   </section>
    
-  <div>
-    <img height="150" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated gif" />
-  </div>
+  <div class"d-flex">
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -61,7 +59,10 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
 </div>
-
+<div class="right">
+    <img height="150" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated gif" />
+  </div>
+  </div>
 ###
 
 <br clear="both">
