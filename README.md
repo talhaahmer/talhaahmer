@@ -4,8 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaahmer&label=Profile%20views&color=0e75b6&style=flat" alt="talhaahmer"  /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaahmer" alt="talhaahmer" style="color: white;
-background-color: black" /></a> </p>
+<p align="left" style="background-color: gray;"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=talhaahmer" alt="talhaahmer"/>
+    </a> 
+</p>
+
 
 - 🔭 I’m currently working on a Project **Bubble & Bauble**
 
