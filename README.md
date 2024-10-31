@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
-  <style>
-    /* Add custom styles here */
-    .main-header {
-      background-image: url('https://source.unsplash.com/random/1600x900?technology');
-      background-size: cover;
-      background-position: center;
-      padding: 80px 0;
-    }
-    .social-icons a {
-      margin: 0 10px;
-      transition: transform 0.3s;
-    }
-    .social-icons a:hover {
-      transform: scale(1.1);
-    }
-  </style>
-</head>
+
 <body class="bg-gray-900 text-gray-300">
 
   <!-- Header Section -->
