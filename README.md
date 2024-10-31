@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaahmer&label=Profile%20views&color=0e75b6&style=flat" alt="talhaahmer"  /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaahmer" alt="talhaahmer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaahmer" alt="talhaahmer" style="color: white;
+background-color: black" /></a> </p>
 
 - 🔭 I’m currently working on a Project **Bubble & Bauble**
 
@@ -25,7 +26,7 @@
       <div class="flex justify-center space-x-6">
         <img src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&theme=dracula"class="w-1/2" alt="GitHub stats">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&theme=dracula" class="w-1/2" alt="Top Languages" style="height: 190px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&theme=dracula" class="w-1/2" alt="Top Languages" style="height: 200px">
       </div>
     </div>
   </section>
