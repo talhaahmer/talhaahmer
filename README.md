@@ -18,6 +18,16 @@
 
 - ⚡ Fun fact **I am Passionate and learn new things quickly**
 
+
+ <section class="bg-gray-800 py-12 px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h3 class="text-3xl font-semibold mb-8 text-white">GitHub Stats</h3>
+      <div class="flex justify-center space-x-6">
+        <img src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&theme=dracula" class="w-1/2" alt="GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&theme=dracula" class="w-1/2" alt="Top Languages">
+      </div>
+    </div>
+  </section>
    
   <div>
     <img height="150" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated gif" />
