@@ -18,11 +18,10 @@
 
 - ⚡ Fun fact **I am Passionate and learn new things quickly**
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahmer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+   
   <div>
     <img height="150" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="animated gif" />
   </div>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
