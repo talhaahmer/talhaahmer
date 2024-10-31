@@ -23,7 +23,7 @@
     <div class="max-w-4xl mx-auto text-center">
       <h3 class="text-3xl font-semibold mb-8 text-white">GitHub Stats</h3>
       <div class="flex justify-center space-x-6">
-        <img src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&theme=dracula" class="w-1/2" alt="GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&theme=dracula" class="bg-gray-800 py-12 px-6" alt="GitHub stats">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&theme=dracula" class="w-1/2" alt="Top Languages">
       </div>
