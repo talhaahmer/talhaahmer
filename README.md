@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Talha Ahmer and I'm a Full Stack Web Developer from Pakistan</h1>
-<h2 align="center">Colaborate with me on exciting projects</h2>
+<h2 align="center">Collaborate with me on exciting projects</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaahmer&label=Profile%20views&color=0e75b6&style=flat" alt="talhaahmer"  /> </p>
 
