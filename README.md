@@ -114,7 +114,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/talhaahmer/talhaahmer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/talhaahmer/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Connect with me:</h3>
 
