@@ -114,7 +114,7 @@
 
 <br clear="both">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/talhaahmer/output/main/snake.gif" alt="Snake Animation" width="300"/>
+  <img src="https://raw.githubusercontent.com/talhaahmer/talhaahmer/output/main/snake.gif" alt="Snake Animation" width="300"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
