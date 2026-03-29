@@ -113,8 +113,11 @@
   </div>
 
 <br clear="both">
+### 🐍 Snake Animation
 
-<img src="https://raw.githubusercontent.com/talhaahmer/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/talhaahmer/output/main/snake.svg" alt="Snake Animation" width="300"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
