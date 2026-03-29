@@ -113,8 +113,14 @@
   </div>
 
 <br clear="both">
+### 🐍 My GitHub Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/talhaahmer/talhaahmer/output/main/snake.gif" alt="Snake Animation" width="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub Snake" src="dist/github-snake.gif" width="400" />
+  </picture>
 </p>
 
 <h3 align="left">Connect with me:</h3>
