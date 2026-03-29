@@ -96,7 +96,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="hadoop/apache logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg](https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg)" height="50" alt="hadoop/apache logo" />
   <img width="15" />
   <img src="https://img.icons8.com/color/48/tableau-software.png" height="50" alt="tableau logo" />
 </div>
