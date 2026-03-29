@@ -22,8 +22,17 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%"/>
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/talhaahmer?label=Followers&style=social" alt="Followers" />
+
+  <!-- Public Repos -->
+  <img src="https://img.shields.io/github/repos/talhaahmer?style=flat-square" alt="Repositories" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/talhaahmer?style=flat-square" alt="Stars" />
+
+  <!-- Top Languages -->
+  <img src="https://img.shields.io/github/languages/top/talhaahmer?style=flat-square" alt="Top Language" />
 </p>
    <br>
 
