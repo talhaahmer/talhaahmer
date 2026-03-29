@@ -19,33 +19,12 @@
 - ⚡ Fun fact **I am Passionate and learn new things quickly**
 <br>
 
- <section class="bg-gray-900 py-12 px-4">
-  <div class="max-w-5xl mx-auto text-center">
-    
-    <h3 class="text-3xl font-bold mb-10 text-white">
-      🚀 GitHub Stats
-    </h3>
+### 🚀 GitHub Stats
 
-    <div class="flex flex-col md:flex-row items-center justify-center gap-6">
-      
-      <!-- GitHub Stats -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&theme=dracula&hide_border=true"
-        alt="GitHub Stats"
-        class="w-full md:w-1/2 rounded-lg shadow-lg"
-      />
-
-      <!-- Top Languages -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&theme=dracula&hide_border=true"
-        alt="Top Languages"
-        class="w-full md:w-1/2 rounded-lg shadow-lg"
-      />
-
-    </div>
-
-  </div>
-</section>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
    <br>
 
 <h3 align="left">Languages and Tools:</h3>
