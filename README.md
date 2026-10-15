@@ -110,15 +110,51 @@
   <a href="https://www.linkedin.com/in/talha-ahmer-488063306/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
+      alt="linkedIn"
       height="35"
       width="45"
     />
   </a>
- <a href="https://www.linkedin.com/in/talha-ahmer-488063306/" target="_blank">
+ <a href="" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="facebook"
+      height="35"
+      width="45"
+    />
+  </a>
+ 
+ <a href="" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="instagram"
+      height="35"
+      width="45"
+    />
+  </a>
+  
+ <a href="" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="twitter"
+      height="35"
+      width="45"
+    />
+  </a>
+  
+ <a href="" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+      alt="gmail"
+      height="35"
+      width="45"
+    />
+  </a>
+  
+ <a href="" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="stackoverflow"
       height="35"
       width="45"
     />
