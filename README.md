@@ -99,13 +99,6 @@
     </tr>
   </tbody>
 </table>
-<!-- ===================================================== -->
-<!--                  CURRENT OBJECTIVES                   -->
-<!-- ===================================================== -->
-
-- 🌱 Currently learning **Microsoft Azure**
-- 👯 Looking to collaborate on **exciting projects**
-- 💻 Interested in **Web Development, Cloud Computing and DevOps**
 
 <!-- ===================================================== -->
 <!--                    CONNECT WITH ME                    -->
@@ -115,6 +108,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/talha-ahmer-488063306/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="35"
+      width="45"
+    />
+  </a>
+ <a href="https://www.linkedin.com/in/talha-ahmer-488063306/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
