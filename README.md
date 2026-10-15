@@ -260,27 +260,28 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Row 1: GitHub Stats + Most Used Languages -->
+<!-- Row 1: Two Equal-Width Cards -->
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D"
+        alt="GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&langs_count=8&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&border_color=30363D"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D"
-    alt="GitHub Statistics"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&langs_count=8&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&border_color=30363D"
-    alt="Most Used Languages"
-    height="180"
-  />
-
-</div>
-
-<br/>
-
-<!-- Row 2: Full-width Contribution Streak -->
+<!-- Row 2: Full-Width Contribution Streak -->
 
 <p align="center">
   <img
