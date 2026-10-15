@@ -260,32 +260,33 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- GitHub Statistics Card -->
+<!-- Row 1: GitHub Stats + Most Used Languages -->
 
-<p align="center">
+<div align="center">
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D"
-    alt="Talha Ahmer's GitHub Statistics"
+    alt="GitHub Statistics"
     height="180"
   />
-</p>
 
-<!-- Most Used Programming Languages -->
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmer&layout=compact&langs_count=8&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&border_color=30363D"
-    alt="Talha Ahmer's Most Used Languages"
+    alt="Most Used Languages"
     height="180"
   />
-</p>
 
-<!-- GitHub Contribution Streak -->
+</div>
+
+<br/>
+
+<!-- Row 2: Full-width Contribution Streak -->
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=talhaahmer&theme=github-dark-blue&background=21262D&border=30363D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
-    alt="Talha Ahmer's GitHub Contribution Streak"
+    alt="GitHub Contribution Streak"
+    width="100%"
   />
 </p>
 
