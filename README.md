@@ -20,20 +20,20 @@
 <!-- Most Used Languages -->
 <p>
   <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahmer&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=161B22&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahmer&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"
        alt="Talha Ahmer's Most Used Languages" />
 </p>
 
 <!-- GitHub Stats -->
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&locale=en&theme=github_dark&bg_color=161B22&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"
+       src="https://github-readme-stats.vercel.app/api?username=talhaahmer&show_icons=true&locale=en&theme=github_dark&bg_color=21262D&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"
        alt="Talha Ahmer's GitHub Stats" />
 </p>
 
 <!-- GitHub Streak Stats -->
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=talhaahmer&theme=github-dark-blue&background=161B22&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=talhaahmer&theme=github-dark-blue&background=21262D2&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
        alt="Talha Ahmer's GitHub Streak Stats" />
 </p>
