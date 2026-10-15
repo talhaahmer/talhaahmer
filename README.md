@@ -34,6 +34,6 @@
 <!-- GitHub Streak Stats -->
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=talhaahmer&theme=github-dark-blue&background=21262D2&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=talhaahmer&theme=github-dark-blue&background=21262D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
        alt="Talha Ahmer's GitHub Streak Stats" />
 </p>
