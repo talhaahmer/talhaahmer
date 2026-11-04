@@ -292,6 +292,9 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="45" height="45"/>
   </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" alt="Amazon Web Services" width="45" height="45"/>
+  </a>
 </p>
 
 <!-- ---------------------- DEVOPS STACK ----------------- -->
