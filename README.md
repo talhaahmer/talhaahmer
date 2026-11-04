@@ -284,7 +284,7 @@
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="45" height="45"/>
+    <img src="https://upload.vectorlogo.zone/logos/amazon_aws/images/dac99a41-2fb1-4a37-ba34-7284cf2d303c.svg" alt="Amazon Web Services" width="45" height="45"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="45" height="45"/>
